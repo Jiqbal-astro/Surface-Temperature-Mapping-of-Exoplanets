@@ -1,0 +1,10 @@
+planet,insolation_searth,T_eq_K,T_surface_global_K,T_day_bare_rock_K,T_substellar_eps0.3_K,water_fraction_eps0.3
+Earth,1,254.6,288.1,,,
+Proxima Cen b,0.6589,229.4,259.5,293.1,344.4,0.3333
+Proxima Cen d,1.862,297.4,336.5,380,446.5,0.1935
+TRAPPIST-1 d,1.115,261.6,296,334.3,392.8,0.3221
+TRAPPIST-1 e,0.6464,228.3,258.3,291.7,342.7,0.3304
+TRAPPIST-1 f,0.3733,199,225.2,254.3,298.7,0.1668
+TOI-700 d,0.877,246.4,278.8,314.8,369.9,0.3888
+Teegarden's Star b,1.15,263.6,298.3,336.9,395.8,0.3123
+Teegarden's Star c,0.372,198.8,225,254.1,298.5,0.1661

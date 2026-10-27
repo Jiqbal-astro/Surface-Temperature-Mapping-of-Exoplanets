@@ -1,0 +1,10 @@
+planet,star,luminosity_lsun,semi_major_axis_au,tidally_locked,reference
+Earth,Sun,1.0,1.000,False,
+Proxima Cen b,Proxima Centauri,0.00155,0.0485,True,Anglada-Escudé et al. 2016
+Proxima Cen d,Proxima Centauri,0.00155,0.02885,True,Faria et al. 2022
+TRAPPIST-1 d,TRAPPIST-1,0.000553,0.02227,True,Agol et al. 2021
+TRAPPIST-1 e,TRAPPIST-1,0.000553,0.02925,True,Agol et al. 2021
+TRAPPIST-1 f,TRAPPIST-1,0.000553,0.03849,True,Agol et al. 2021
+TOI-700 d,TOI-700,0.0233,0.163,True,Gilbert et al. 2020
+Teegarden's Star b,Teegarden's Star,0.00073,0.0252,True,Zechmeister et al. 2019
+Teegarden's Star c,Teegarden's Star,0.00073,0.0443,True,Zechmeister et al. 2019
